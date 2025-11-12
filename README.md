@@ -2,8 +2,8 @@
 > *A hobby OS for learning low-level systems programming — no libc, no bootloader, just pure x86.*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
-[![Build Status](https://img.shields.io/github/actions/workflow/status/USERNAME/my-os/build.yml?branch=main)](https://github.com/USERNAME/my-os/actions)  
-[![GitHub stars](https://img.shields.io/github/stars/USERNAME/my-os?style=social)](https://github.com/USERNAME/my-os/stargazers)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/USERNAME/my-os/build.yml?branch=main)](https://github.com/Mansoryq/c-trush-project/actions)  
+[![GitHub stars](https://img.shields.io/github/stars/Mansoryq/c-trush-project?style=social)](https://github.com/Mansoryq/c-trush-project/stargazers)
 
 ---
 
